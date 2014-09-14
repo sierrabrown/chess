@@ -3,6 +3,7 @@ require "yaml"
 
 class Game
   
+  #Hi this is a chess game.
   attr_accessor :gameboard, :currentplayer
   
   def initialize
